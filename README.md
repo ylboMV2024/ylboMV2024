@@ -2,10 +2,15 @@
 
 MEU NOME é YURI LUIS
 
-- estou estudando na ALURA
-- estou me desenvolvendo na linguagem JavaScript
-- utilizo esse espaço para minhha organização e compartilhamento dos meus projetos desenvolviidos
+- Estou estudando na [ALURA](https//:www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minhha organização e compartilhamento dos meus projetos desenvolviidos
 
-- ### voce entra em contato comigo 📫
+- ### Você entra em contato comigo 📫
 
   00001091977641sp@al.educacao.sp.gov.br
+
+  
+
+
+![](https://media1.tenor.com/m/LpJ3YmcuLwcAAAAd/power-rangers-dino-thunder-power-rangers.gif)
